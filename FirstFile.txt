@@ -2,3 +2,4 @@ This is my first file to the git project.
 Added this second line after the pushing this file to the git project , but not staged yet. file is still untracked.
 Adding content to the staged file.
 Adding third line after staged.
+Adding data to the commited file.
