@@ -1,1 +1,3 @@
 This is a text in c file on feature branch
+
+Added New Commit here
